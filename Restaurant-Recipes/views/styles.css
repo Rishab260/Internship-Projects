@@ -1,0 +1,30 @@
+/* public/styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  margin-bottom: 0.5rem;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+
+a {
+  margin-right: 1rem;
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
